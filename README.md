@@ -6,12 +6,12 @@ The project was carried out for a hypothetical travel company, Plan My Trip, whe
 Below are the snapshots of the customer's vacation search and travel itinerary using the Plan My Trip app.
 
 ## Potential travel destinations and nearby hotels
-![WeatherPy_vacation_map]()
+![WeatherPy_vacation_map](https://github.com/Lora-Borja/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## The Coastal South African Adventure
-![WeatherPy_travel_map]()
+![WeatherPy_travel_map](https://github.com/Lora-Borja/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
-![WeatherPy_travel_map_markers]()
+![WeatherPy_travel_map_markers](https://github.com/Lora-Borja/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
